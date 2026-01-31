@@ -15,15 +15,6 @@ Seorang Software Engineer dengan pengalaman **5+ tahun** dalam membangun sistem 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1517051082&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1517051082&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🏗️ Notable Experience
 
 #### **Payment & Financial Systems**
